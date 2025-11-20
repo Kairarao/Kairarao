@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kavita Rao</h1>
 <h3 align="center">A student from India, actively learning programming to build a strong foundation in technology and pursue my passion for coding.</h3>
 
-- 🌱 I’m currently learning **Advance Core Java.**
+- 🌱 I’m currently learning **Advance Core Java, Python, Machine Learning, R language, ASP.net**
 
 - 📫 How to reach me **Kairarao2005@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: linkedin.com/in/kavita-rao-8423a8275</h3>
 <p align="left">
 </p>
 
