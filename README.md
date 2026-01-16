@@ -2,7 +2,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%26+Data+Analyst;Python~Java~ASP.NET~Machine+Learning;Financial+Systems+%26+Web+Apps;Nagpur+Internships+2026" alt="Typing SVG" />
 </div>
-🚀 About Me
+🚀 About Me 
+<br/>
 Student developer from Nagpur, Maharashtra building practical full-stack applications and financial management systems. Passionate about transforming business operations through code - from desktop GUIs to ML-powered insights. Currently seeking internships in software development and data analytics.[user-information]​
 
 Key Focus: Business automation, financial tracking systems, database-driven web apps
